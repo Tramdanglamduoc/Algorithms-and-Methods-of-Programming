@@ -1,0 +1,7 @@
+Toms Scott's Big O Complexity Video: https://www.youtube.com/watch?v=RGuJga2Gl_k
+
+Quadratic complexity in Real Life - loading GTA game: https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/
+
+VIDEO - Master Method: https://youtu.be/lhwNjKfLjhg
+
+Greedy Algorithms: https://www.youtube.com/watch?v=aBaeqcTNaI4 

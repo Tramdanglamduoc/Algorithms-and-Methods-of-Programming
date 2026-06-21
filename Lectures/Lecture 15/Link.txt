@@ -1,0 +1,9 @@
+KMP and B-M algorithms compared by author of B-M (Moore): https://www.cs.utexas.edu/users/moore/best-ideas/string-searching/
+
+Knuth Morris Pratt - KMP Visualization: https://www.cs.utexas.edu/~moore/best-ideas/string-searching/
+
+Boyer Moore (B-M) Visualization: https://people.ok.ubc.ca/ylucet/DS/BoyerMoore.html 
+
+Knuth-Morris-Pratt paper - 1974: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.93.8147
+
+VIDEO: https://youtu.be/vHt_lA5kM2I 

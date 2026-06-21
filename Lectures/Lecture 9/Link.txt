@@ -1,0 +1,5 @@
+Branch and Bound: https://www.geeksforgeeks.org/branch-and-bound-algorithm/ 
+
+Why does Branch and Bound work?: https://rjlipton.wpcomstaging.com/2012/12/19/branch-and-bound-why-does-it-work/
+
+Video Lecture on Branch and Bound: https://www.youtube.com/watch?v=uMUugJJUcec

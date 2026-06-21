@@ -1,0 +1,7 @@
+Max Flow Visualization: http://isabek.github.io/
+
+VIDEO - Maximum Flow: https://youtu.be/uy2Pn52v-lg
+
+LLVM - for your own compiled language: https://llvm.org/
+
+Parsing VIDEO: https://youtu.be/6Jsv9-mLPoI

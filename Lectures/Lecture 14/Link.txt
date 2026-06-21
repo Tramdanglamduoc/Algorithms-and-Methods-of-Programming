@@ -1,0 +1,3 @@
+Terminology: https://tomassetti.me/guide-parsing-algorithms-terminology/
+Dragon Book: https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
+Build Your Own Interpreter - web series: https://ruslanspivak.com/lsbasi-part1/ 
