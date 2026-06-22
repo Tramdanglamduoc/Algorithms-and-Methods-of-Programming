@@ -5,7 +5,9 @@ Course materials for **DIP321 – Algorithms and Methods of Programming** at Rig
 ## Repository Structure
 ├── Lectures/           # Topic materials and notebooks
 
-└── Project/            # Final group project
+└── Test and Exam/            # Final group project + Midterm project
+
+└── Side Materials/            # Learning activities beside class activities
 
 ## Course Topics
 
